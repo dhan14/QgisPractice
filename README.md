@@ -37,6 +37,7 @@ Pembuatan Soal 9: Pembuatan 2 Poligon Yang berbeda dimensi
 ![GitHub Logo](https://raw.githubusercontent.com/dhan14/QgisPractice/main/hasil/hasil9.PNG)
 
 >Disini menggunakan 2 poly yang berbeda untuk meenghasilkan 2 bidang
+
 Pembuatan Soal 10: Tugas Perorangan (Membuat Persegi Panjang 2 Buah)
 
 ![GitHub Logo](https://raw.githubusercontent.com/dhan14/QgisPractice/main/hasil/hasil10.PNG)
